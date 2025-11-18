@@ -10,5 +10,5 @@ phases:
       - ls -R Flight-Registry/target/
 artifacts:
   files:
-    - Flight-Registry/target/ServiceRegistry-0.0.1-SNAPSHOT.jar
+    - Flight-Registry/target/ServiceRegistry.jar
   discard-paths: yes
